@@ -1,5 +1,5 @@
 # Tweet-Ratings-4-Dishonor
-Python code using machine learning to rate politicians' tweets for dishonorable speech
+Python code that uses machine learning to rate politicians' tweets for dishonorable speech
 
 Project Description
 ===================
